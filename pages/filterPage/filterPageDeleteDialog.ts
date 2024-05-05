@@ -1,3 +1,9 @@
+/**
+ * Module: filterPage
+ * Description: This module contains the page object model for interacting with delete dialogs.
+ * Author: Andrey Ivanov
+ * Date: 05.05.2024
+ */
 import {Page} from "@playwright/test";
 
 export class DeleteDialog {
